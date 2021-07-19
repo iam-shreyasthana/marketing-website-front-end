@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+nav{
+    font-family: 'Rubik', sans-serif;
+    height:100px;
+    top: 30px;
+}
+
+nav .navbar-brand{
+    position: absolute;
+    width: 35px;
+    height: 36.23px;
+    left: 185px;
+
+}
+
+.nav-item{
+    position: absolute;
+    width: 52px;
+    height: 19px;
+    top: 58.62px;
+}
+
